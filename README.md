@@ -19,15 +19,16 @@ A simplified demo of a full-featured project management tool built with **Larave
 ## 🖼️ Screenshots
 
 ### 🏢 Project Dashboard
-![Project Dashboard](screenshots/projects.png)  
+<img width="1920" height="919" alt="Screenshot 2025-08-04 at 03-20-06 Projects test - Pro Task" src="https://github.com/user-attachments/assets/e6ae1b32-3a7d-417b-9580-9cc9515ec205" />
 *Workspace and project overview with team navigation*
 
+
 ### 📋 Kanban Board
-![Kanban Board](screenshots/board.png)  
+<img width="1920" height="919" alt="Screenshot 2025-08-04 at 03-22-21 Board project test - Pro Task" src="https://github.com/user-attachments/assets/d0ecefd0-de14-48e2-8179-617b464727ff" />
 *Drag-and-drop interface for seamless workflow management*
 
 ### 📝 Task Details
-![Task Details](screenshots/task-details.png)  
+<img width="1920" height="919" alt="Screenshot 2025-08-04 at 03-23-02 test task project test - Pro Task" src="https://github.com/user-attachments/assets/98378476-8ccd-4c46-9e11-7ef6d560052c" />
 *Task view with description, checklist, due date, and activity log*
 
 ---
