@@ -19,4 +19,5 @@ DEVOPS & TOOLS
 • Real-Time: Socket.IO (planned for notifications)
 • Responsive: Works on desktop & tablet
 
+
 🎯 Purpose: Streamline team workflows, replace manual tracking, improve productivity by ~35%.
