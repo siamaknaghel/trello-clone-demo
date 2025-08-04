@@ -1,0 +1,22 @@
+🔧 Full-Stack Technology Overview
+
+BACKEND
+• Framework: Laravel 10 (RESTful API)
+• Database: MySQL
+• Schema Management: Doctrine DBAL
+• Authentication: Laravel Sanctum
+• Testing: PHPUnit, Factories
+• Utilities: Laravel Excel, Laravel Purify, DotEnv Editor
+
+FRONTEND
+• Framework: Vue 3 + Composition API
+• Integration: Inertia.js
+• Styling: Tailwind CSS
+• Routing: Ziggy (Friendly Laravel Routes in JavaScript)
+
+DEVOPS & TOOLS
+• Environment: Docker-ready (based on laravel-docker-setup)
+• Real-Time: Socket.IO (planned for notifications)
+• Responsive: Works on desktop & tablet
+
+🎯 Purpose: Streamline team workflows, replace manual tracking, improve productivity by ~35%.
